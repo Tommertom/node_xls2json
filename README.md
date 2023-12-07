@@ -12,6 +12,8 @@ Make sure you have Node.js installed on your system. If not, you can download it
 
 ### Installation
 
+You need xlsx package.
+
 ```bash
 npm install xlsx
 ```
@@ -22,8 +24,8 @@ npm install xlsx
 node excelToJson.js <inputFile> <outputFile>
 ```
 
-<inputFile>: The path to the Excel file you want to convert.
-<outputFile>: The path to the JSON file where the converted data will be saved.
+_inputFile_: The path to the Excel file you want to convert.
+_<outputFile_: The path to the JSON file where the converted data will be saved.
 
 ### Example
 
