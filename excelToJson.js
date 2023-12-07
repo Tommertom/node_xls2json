@@ -49,5 +49,5 @@ if (!inputFile || !outputFile) {
     process.exit(1);
 }
 
-// Example usage
+// run main function
 excelToJson(inputFile, outputFile);
